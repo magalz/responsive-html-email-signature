@@ -1,13 +1,13 @@
 {
   "id": "light",
-  "signature": "Yours truly,",
-  "name": "The light mail team",
-  "welcome": "Hi there,",
-  "introParagraph": "Thanks for writing up this email.<br/> We are delighted to reply with a responsive template.",
-  "contactMain": "Call <a href='tel:80100100'><span>80100100</span></a> or email us at",
-  "contactMail": "info@light.dk",
-  "contactSecondary": "<a href='https://mapurl.com'><span>Happy Steet 31, DK-8000 Aarhus C, Denmark</span></a>",
-  "logoUrl": "/assets/light.png",
+  "signature": "Atenciosamente,",
+  "name": "João Pedro Magalhães - TI",
+  "welcome": "Olá,",
+  "introParagraph": "Obrigado por escrever.<br/> Entrarei em contato o mais rápido que puder.",
+  "contactMain": "Telefone: <a href='tel:+5585999053091'><span>(85) 99905-3091</span></a><br>Email: ",
+  "contactMail": "pedro.magalhaes@imaginetc.com.br",
+  "contactSecondary": "<a target='_blank' rel='noopener noreferrer' href='https://goo.gl/maps/2ZYGpmVYMz42'><span>Rua Doutor Gilberto Studart, 55, Sala 1503, Torre Sul, Cocó</span></a>",
+  "logoUrl": "https://i.imgur.com/5NcYESK.png",
   "logoAlt": "light logo",
-  "website": "http://light.dk"
+  "website": "http://imaginetc.com.br/"
 }

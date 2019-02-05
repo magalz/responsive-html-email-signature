@@ -1,11 +1,11 @@
 {
   "id": "dark",
-  "signature": "Best regards,",
-  "name": "The dark mail team",
-  "contactMain": "Call <a href='tel:004580100100'><span>(45) 80100100</span></a> or email us at",
-  "contactMail": "info@dark.dk",
-  "slogan": "LED Pylon. LED Wall. Digital Signage.",
-  "logoUrl": "/assets/dark.png",
-  "logoAlt": "dark logo",
-  "website": "http://dark.dk"
+  "signature": "Atenciosamente,",
+  "name": "João Pedro Magalhães - TI",
+  "contactMain": "Telefone: <a href='tel:+5585999053091'><span>(85) 99905-3091</span></a><br>Email: ",
+  "contactMail": "pedro.magalhaes@imaginetc.com.br",
+  "slogan": "Analista de TI",
+  "logoUrl": "https://i.imgur.com/5NcYESK.png",
+  "logoAlt": "Imagine TC",
+  "website": "http://imaginetc.com.br/"
 }

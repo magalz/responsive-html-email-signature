@@ -3,6 +3,7 @@
  * 1. Common styles for general table things.
  * =====================================
  */
+
 img {
   max-width: 100%;
 }
@@ -13,7 +14,7 @@ body {
 }
 
 tr{
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Verdana, Geneva, sans-serif;
   box-sizing: border-box;
   font-size: 14px;
   line-height: 22px;
@@ -60,7 +61,7 @@ a{
 .main__welcome{
   color: #000;
   padding: 10px 30px 0 30px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Verdana, Geneva, sans-serif;
   font-size: 16px;
   line-height: 22px;
 }
@@ -68,7 +69,7 @@ a{
 .main__content{
   color: #000;
   padding: 10px 30px 0 30px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Verdana, Geneva, sans-serif;
   font-size: 14px;
 }
 
@@ -79,14 +80,14 @@ a{
  * ================
  */
 .footer{
-  background-color: #303030;
+  background-color: #FFF;
   padding: 20px 30px 0px 30px;
   color: #f5f5f5;
-  border-top: 8px solid #585858;
 }
 
 .footer a{
-  color: #f5f5f5;
+  color: #F4D33D;
+  font-weight: bold;
 }
 
 .footer--simple{
@@ -105,9 +106,10 @@ a{
 
 .footer__main__signature{
   font-size: 14px;
-  color: #f5f5f5;
+  color: #48AEE5;
   /* @todo gulp-inline-css doesn't parse align */
   align:left;
+  font-weight: bold;
 }
 
 .footer__main__col1{
@@ -118,10 +120,11 @@ a{
 }
 
 .footer__main__col1__td{
-  color: #9E9E9E;
+  color: #48AEE5;
   /* @todo gulp-inline-css doesn't parse align */
   align:left;
   padding-top: 15px;
+  font-weight: bold;
 }
 
 .footer__main__col1__td > span{
@@ -131,8 +134,9 @@ a{
 
 .footer__main a > span{
   /* Revert apple blue-link style. */
-  color: #f5f5f5!important;
+  color: #F4D33D!important;
   text-decoration:none!important;
+  font-weight: bold;
 }
 
 .footer__main__col2{
